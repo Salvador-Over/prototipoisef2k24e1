@@ -12,6 +12,7 @@ using System.Windows.Forms;
 
 namespace Capa_Vista_Logistica
 {
+
     public partial class FormPrincipal : Form
     {
         // Realizado por: Pedro Alejandro Citalán Herrera - 0901-20-16151
