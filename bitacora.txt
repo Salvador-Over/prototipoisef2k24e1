@@ -1,0 +1,29 @@
+commit 23d112a601ff609e336879c54fecea81a83f2e1f
+Author: Salvador <rmartinezo@miumg.edu.gt>
+Date:   Thu Jun 5 09:16:43 2025 -0600
+
+    Se sube rama con
+
+commit 902eae4826644afe1062708dd71f78261d55dc0d
+Author: Salvador <rmartinezo@miumg.edu.gt>
+Date:   Thu Jun 5 09:15:23 2025 -0600
+
+    Se sube rama mant
+
+commit 3073a88200b5d2ffb79fc54a7d2e5d6947c557d0
+Author: Salvador <rmartinezo@miumg.edu.gt>
+Date:   Thu Jun 5 09:13:15 2025 -0600
+
+    Se sube rama segu
+
+commit 80d354ecf5181e3d0b1d8399a49bc67c65c83baf
+Author: Salvador <rmartinezo@miumg.edu.gt>
+Date:   Thu Jun 5 09:02:51 2025 -0600
+
+    Se agrega el proyecto completo
+
+commit dce3a2bf2efc6a65ea2fb1f1a7ac7eca925f4f41
+Author: Salvador-Over <98099897+Salvador-Over@users.noreply.github.com>
+Date:   Thu Jun 5 08:29:02 2025 -0600
+
+    Initial commit
